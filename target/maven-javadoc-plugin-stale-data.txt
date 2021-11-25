@@ -1,0 +1,44 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Brandon Hernandez/Documents/Escuela/UNAM/POO/POOP11/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Brandon Hernandez/Documents/Escuela/UNAM/POO/POOP11/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP11 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'POOP11 1.0-SNAPSHOT API'
+com.mycompany.poop11
+'D:/Brandon Hernandez/Documents/Escuela/UNAM/POO/POOP11/src/main/java/com/mycompany/poop11/Main.java'
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\src\main\java = 1637805916410
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\allclasses-index.html = 1637819813545
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\allpackages-index.html = 1637819813547
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\element-list = 1637819813510
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\help-doc.html = 1637819813566
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\index-all.html = 1637819813559
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\index.html = 1637819813561
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\jquery-ui.overrides.css = 1637819813619
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\member-search-index.js = 1637819813552
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\module-search-index.js = 1637819813549
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\overview-tree.html = 1637819813536
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\package-search-index.js = 1637819813549
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\script.js = 1637819813570
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\search.js = 1637819813577
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\stylesheet.css = 1637819813568
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\tag-search-index.js = 1637819813553
+D:\Brandon Hernandez\Documents\Escuela\UNAM\POO\POOP11\target\site\apidocs\type-search-index.js = 1637819813551
